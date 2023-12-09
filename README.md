@@ -2,18 +2,18 @@ This Framework is designed while validating modernized and migrated view of SAP 
 
 Validation done using Framework.
 
-Row count
-Column Count
-Column name
-Column schema/datatype
-Minus query
-Reverse Minus query
-Execution time of modernized and migrated views
+Row count,
+Column Count,
+Column name,
+Column schema/datatype,
+Minus query,
+Reverse Minus query,
+Execution time of modernized and migrated views.
 
 
 You have to pass parameters from another notebook to this farmework notebook.
 
-Parameters should be passed from another notebook
+Parameters should be passed from another notebook.
 
 %run ./Validation_framework
 $view_name="AN_SM_INVEN_TARGET" 
